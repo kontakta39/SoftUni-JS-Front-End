@@ -1,6 +1,6 @@
 function solve(array) {
   for (let i = 0; i < array.length; i++) {
-    let currentNumberDigits = array[i].toString().split('').map(Number);;
+    let currentNumberDigits = array[i].toString().split('').map(Number);
     let flag = digitLoop(currentNumberDigits);
     console.log(flag);
   } 
@@ -20,5 +20,5 @@ function solve(array) {
   }
 }
 
-//solve([123,323,421,121]);
+solve([123,323,421,121]);
 solve([32,2,232,1010]);
