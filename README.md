@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-This repository contains my solutions and exercises completed during the [*JS Front-End - February 2024 @ SoftUni*](https://softuni.bg/trainings/4362/js-front-end-february-2024) course at SoftUni.
+This repository contains my solutions and exercises completed during the [*JS Front-End - February 2024 @ SoftUni*](https://softuni.bg/trainings/4362/js-front-end-february-2024) course.
 
 The course focuses on building a solid foundation in **JavaScript programming and front-end development**, covering core language concepts, DOM manipulation, and event-driven programming.
 
