@@ -1,4 +1,4 @@
-# 🎓 JavaScript Front-End – SoftUni Course Portfolio (February 2024)
+# 🎓 JavaScript Frontend Portfolio
 
 ## 📌 Overview
 
